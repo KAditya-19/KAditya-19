@@ -8,8 +8,8 @@ On this profile, you’ll find a collection of my personal and professional proj
 - **Programming Languages**: Python, PHP
 - **Web Development**: HTML, CSS, JavaScript (basic)
 - **Frameworks & Libraries**: Flask, Django (learning phase), Bootstrap (for responsive design)
-- **Tools & Platforms**: Git, GitHub, VS Code, XAMPP
-- **Databases**: SQLite, MySQL (beginner)
+- **Tools & Platforms**: Git, GitHub, VS Code, WAMP.
+- **Databases**: MySQL (beginner)
 
 ## 🌟 Projects
 
